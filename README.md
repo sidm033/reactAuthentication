@@ -4,11 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-![Screenshot](/public/login.png)
-
-
 ![Screenshot](/public/dashboard.png)
 
+![Screenshot](/public/login.png)
 
 In the project directory, you can run:
 
