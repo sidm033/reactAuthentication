@@ -1,0 +1,77 @@
+.login-content {
+    display: flex;
+    padding-top: 43px;
+    border: 1px solid;
+    padding-bottom: 43px;
+    margin-bottom: 316px;
+    margin-left: 304px;
+    margin-right: 346px;
+    padding-left: 29px;
+    border-radius: 18px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-color: #EEEEEE;
+}
+
+.login-email-content {
+    position: absolute;
+}
+
+.login-title-email {
+    position: absolute; 
+}
+
+.login-input-email {
+    /* position: relative; */
+    padding-left: 156px;
+    padding-top: 11px;
+}
+
+.login-title-pass {
+    position: absolute;
+    padding-top: 13px;
+}
+
+.login-input-pass {
+    /* position: relative; */
+    padding-left: 156px;
+    padding-top: 11px;
+}
+
+.login-pass-content {
+    /* position: relative; */
+    padding-top: 43px;
+}
+
+.input-box {
+    width: 471px;
+    height: 25px;
+    border: 1px solid;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+
+.main-content {
+    position: absolute;
+ }
+
+ .login-submit-btn {
+    /* position: relative; */
+    padding-top: 103px;
+    padding-left: 287px;
+}
+
+button.login-btn {
+    width: 135px;
+    height: 42px;
+    border: 1px solid;
+    border-radius: 21px;
+    background-color: #9E9E9E;
+    border-color: #EEEEEE;
+    font-size: 16px;
+    color: #616161;
+}
+
+.active-btn {
+    background-color: #9C27B0 !important;
+    color: #ffffff !important;
+}

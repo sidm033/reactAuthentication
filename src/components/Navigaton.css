@@ -1,0 +1,27 @@
+.header-sub-title {
+    display: flex;
+    justify-content: flex-end;
+    text-align: 0px;
+    padding-left: 913px;
+    font-size: 16px;
+    justify-content: space-between;
+    padding-right: 184px;
+    align-items: baseline;
+    position: relative;
+    padding-top: 5px;
+    cursor: default;
+    padding-bottom: 8px;
+}
+
+p.active {
+    border: 1px solid;
+    border-radius: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #EC407A;
+    color: #FCE4EC;
+    border-color: #EC407A;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
